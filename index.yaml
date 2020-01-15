@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rook-ceph-cluster:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-01-15T11:55:21.905688198Z"
+    description: A Helm chart for Kubernetes
+    digest: 03c06a52ecbdf07297233651d0391da089e26e7de9b5016893bfb51f6f2d26dd
+    name: rook-ceph-cluster
+    type: application
+    urls:
+    - https://theaox.github.io/helm-charts/rook-ceph-cluster-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-15T11:55:21.903718424Z"
