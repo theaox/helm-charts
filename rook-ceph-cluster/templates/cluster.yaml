@@ -151,8 +151,8 @@ spec:
               volumeMode: Block
               accessModes:
                 - ReadWriteOnce
-    useAllNodes: true
-    useAllDevices: true
+#    useAllNodes: true
+    #    useAllDevices: true
     #    #deviceFilter:
     #    config:
     # The default and recommended storeType is dynamically set to bluestore for devices and filestore for directories.
