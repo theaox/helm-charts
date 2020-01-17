@@ -3,7 +3,17 @@ entries:
   rook-ceph-cluster:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.806433914Z"
+    created: "2020-01-17T10:52:59.725961199Z"
+    description: A Helm chart for Kubernetes
+    digest: febd06652ce3204b4a544a2157f804793cbf01a49d18370797e040cf0b4d838e
+    name: rook-ceph-cluster
+    type: application
+    urls:
+    - https://theaox.github.io/helm-charts/rook-ceph-cluster-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2020-01-17T10:52:59.725163964Z"
     description: A Helm chart for Kubernetes
     digest: d91eb819fad3c4814a954d0fce94ec14638bf78fef4796f3a83eba024e3d575e
     name: rook-ceph-cluster
@@ -13,7 +23,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.805875946Z"
+    created: "2020-01-17T10:52:59.724609833Z"
     description: A Helm chart for Kubernetes
     digest: ff5b8a39dff9040c2b176c067cf06b7dc97ee35babf7fc7370e4175be2172040
     name: rook-ceph-cluster
@@ -23,7 +33,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.812266854Z"
+    created: "2020-01-17T10:52:59.7363817Z"
     description: A Helm chart for Kubernetes
     digest: ea22ae403b90c69ce8d4e1e0d082db02fce485cbee42afe3502e1f49ed4cd3cd
     name: rook-ceph-cluster
@@ -33,7 +43,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.811180577Z"
+    created: "2020-01-17T10:52:59.735543772Z"
     description: A Helm chart for Kubernetes
     digest: 5ab8e587d844f8cf1b432efc70d62997096551c19ea217dafdf2f3a6bc3ea3c9
     name: rook-ceph-cluster
@@ -43,7 +53,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.809963712Z"
+    created: "2020-01-17T10:52:59.734757783Z"
     description: A Helm chart for Kubernetes
     digest: 0b40e17912e9bd6b30393436fb5067d324016fccd4e6d4b9b6b890bfb9c62440
     name: rook-ceph-cluster
@@ -53,7 +63,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.809339573Z"
+    created: "2020-01-17T10:52:59.733845283Z"
     description: A Helm chart for Kubernetes
     digest: 54b1da6065688e118238a773624d73e1e1d66bf634a9a70a6ef0d90519a638f5
     name: rook-ceph-cluster
@@ -63,7 +73,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.808738026Z"
+    created: "2020-01-17T10:52:59.733025131Z"
     description: A Helm chart for Kubernetes
     digest: fae06de2818979fced9cc86943fa8feabbc3088277b502cb5bb75d89a3fa7137
     name: rook-ceph-cluster
@@ -73,7 +83,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.808106305Z"
+    created: "2020-01-17T10:52:59.728293893Z"
     description: A Helm chart for Kubernetes
     digest: 8cc09e5b7402e9bd2a18503864ddec02ffe380ae1634dc372174113babd5786a
     name: rook-ceph-cluster
@@ -83,7 +93,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.80752186Z"
+    created: "2020-01-17T10:52:59.727448404Z"
     description: A Helm chart for Kubernetes
     digest: 4f225fa15eb45659dbdeac41ac1d6c2dd0217c31a79ec477dbc8d5c707b67267
     name: rook-ceph-cluster
@@ -93,7 +103,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.806974138Z"
+    created: "2020-01-17T10:52:59.726704235Z"
     description: A Helm chart for Kubernetes
     digest: bfa14cd5a633128458a7795ae06fa81fea6312ede238c700110cdd1d52a09e3c
     name: rook-ceph-cluster
@@ -103,7 +113,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.805305084Z"
+    created: "2020-01-17T10:52:59.7240686Z"
     description: A Helm chart for Kubernetes
     digest: ffe69c4a87af4ce5385c60a3bc3a4c8c8395d1ce7b36777d9d82189dad13c7c1
     name: rook-ceph-cluster
@@ -113,7 +123,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2020-01-17T09:37:05.804679041Z"
+    created: "2020-01-17T10:52:59.723571908Z"
     description: A Helm chart for Kubernetes
     digest: 7726d3483f7a13e3fb42b8b030a6a7d071044c049eb3b739298db52e41c389de
     name: rook-ceph-cluster
@@ -121,4 +131,4 @@ entries:
     urls:
     - https://theaox.github.io/helm-charts/rook-ceph-cluster-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-17T09:37:05.803627174Z"
+generated: "2020-01-17T10:52:59.722898407Z"
